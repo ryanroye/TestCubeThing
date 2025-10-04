@@ -3,5 +3,5 @@
 [node name="Node3D" type="Node3D"]
 
 [node name="CSGBox3D" type="CSGBox3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1361084, 0, 0)
-size = Vector3(5.119385, 1, 1)
+transform = Transform3D(0.66926086, -0.33130705, 0.6650755, 0.52373, 0.84526956, -0.105955295, -0.52706426, 0.4192317, 0.73922133, -0.18731356, 0, 0)
+size = Vector3(3.2701416, 1, 1)
